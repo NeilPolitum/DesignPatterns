@@ -15,3 +15,5 @@ Existen 3 clases de patrones:
   - Patrones creacionales
   - Patrones estructurales
   - Patrones de comportamiento
+
+En total son 23 patrones, que fueron realizados y exhibidos por John Vlissides, Richard Helm, Erich Gamma y Ralph Johnson (llamados "Gang of Four"), en el libro "Design Pattern".
